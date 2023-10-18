@@ -19,9 +19,9 @@ I enjoy solving technical problems, researching and developing new technologies
 ### Socials
                   
                   
- <p align="left">
-                      <a href="https://discord.com/users/devshaddy_53723" target="_blank" rel="noreferrer">
-                    <picture>
+<p align="left">
+   <a href="https://discord.com/users/devshaddy_53723" target="_blank" rel="noreferrer">
+   <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
