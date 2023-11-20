@@ -6,7 +6,7 @@ I enjoy solving technical problems, researching and developing new technologies
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [musyokishadrach1@gmail.com](mailto:musyokishadrach1@gmail.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on open source projects
+* 🤝  I'm open to collaborating on open source projects.
 
 ### Skills
 
