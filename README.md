@@ -7,7 +7,7 @@ I enjoy solving technical problems, researching and developing new technologies
 * ✉️  You can contact me at [musyokishadrach1@gmail.com](mailto:musyokishadrach1@gmail.com)
 * 🧠  I'm currently doing React projects
 * 🤝  I'm open to collaborating on open source projects.
-* 🌍  You can check my portfolio <a href="https://shadrack-kimaau.netlify.app/">HERE</a>
+* 🌍  You can check my portfolio by clicking<a href="https://shadrack-kimaau.netlify.app/">HERE</a>
 
 ### Skills
 
