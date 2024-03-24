@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**.
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 I’m looking to collaborate on **Open source projects**.
 
 - 👨‍💻 View my portfolio at [https://shadrack-kimaau.netlify.app/](https://shadrack-kimaau.netlify.app/)
 
