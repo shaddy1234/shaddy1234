@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Personal-projects
 
-- 🌱 I’m currently building with **React**
+- 🌱 I’m currently learning TypeScript and Data Science
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
